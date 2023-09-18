@@ -6,12 +6,15 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 2 eggs
+- 2 tsp vegetable oil
+- 1 cup of oreo 
+- butter
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips and vanilla extract.
+3. smash the oreo into smaller pieces and mix it with butter, put the mixture at the bottom of the pan.
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
